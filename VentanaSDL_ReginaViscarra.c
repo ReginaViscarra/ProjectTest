@@ -39,7 +39,7 @@ int main( int argc, char** argv )
 		return 1;
 	}
 	surface = SDL_GetWindowSurface( window ); 
-	SDL_FillRect(surface, NULL, SDL_MapRGB(surface->format,255, 0, 0)); //Va a iniciar en rojo siempre
+	SDL_FillRect(surface, NULL, SDL_MapRGB(surface->format,255, 0, 0)); //Va a iniciar en rojo siempre PRUEBA
 	
 	SDL_UpdateWindowSurface( window );
 	while(!quit) 
