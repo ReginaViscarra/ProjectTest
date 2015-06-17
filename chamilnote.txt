@@ -1,0 +1,9 @@
+basicamente los cambios son los siguientes
+	>Se separaron el centro en x del centro en y
+	>Se hizo la imagen chiquita remplazando un null con &d
+	>Se cambio las rutas de las imagenes para que vayan con las del proyecto
+	>Se tomaron en cuenta las dimenciones de imagenes
+	>Se cambio el argumento de main de main(void) a int argc, char** argv
+
+
+Eso seria todo, te amo :)
